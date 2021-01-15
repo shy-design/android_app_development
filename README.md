@@ -10,7 +10,7 @@ Save Precious Wildlife (v1.22)
 ### □ Group Member ###
   - Kateryna 
   - Jagjit 
-  - JunHyung
+  - Mark
   
 ### □ Version Control ###
 
@@ -51,5 +51,7 @@ https://youtu.be/50Jox3VHcCE
 <hr/>
 
 ### □ The Group Project Report Document ###
-https://drive.google.com/file/d/1JaNw247rcMYMEvaMuFHuUuaDYLCvzW79/view?usp=sharing
+https://drive.google.com/file/d/19mPyyfXGbXN1V95t7li0ZoAily5f7wik/view?usp=sharing
+
+
 
