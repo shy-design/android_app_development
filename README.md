@@ -8,9 +8,9 @@ Save Precious Wildlife (v1.22)
 ### □ Group Name : *Team Eleven* ###
 
 ### □ Group Member ###
-  - Jagjit Singh - 300316857
-  - Kateryna Timonina - 300321769
-  - JunHyung Kim (Mark) - 300318553
+  - Kateryna 
+  - Jagjit 
+  - JunHyung
   
 ### □ Version Control ###
 
